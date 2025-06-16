@@ -1,2 +1,2 @@
-# JavaScript
+# JavaScript-Basic
 JS Important concepts. 
